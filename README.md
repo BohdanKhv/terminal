@@ -9,4 +9,3 @@ source ~/styling.sh
 ```
 4. Restart your terminal
 5. Enjoy!
-```
